@@ -16,8 +16,5 @@ git clone https://github.com/lilHmidou/IHM_PROJECT.git
 
 ```
 
-## Contribution
-Nous accueillons les contributions de la communauté ! Si vous souhaitez contribuer, veuillez consulter notre [Guide de Contribution](lien_vers_le_guide_de_contribution).
-
 ## Licence
 Ce projet est distribué sous la direction des professeurs de la MIAGE - Sorbonne dans le cadre d'un proet.
